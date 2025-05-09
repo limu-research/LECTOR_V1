@@ -1,5 +1,6 @@
 # LECTOR_V1
-Results of the experiment conducted in the paper [LECTOR: Summarizing E-book Reading Content for Personalized Student Support](https://doi.org/10.1007/s40593-025-00478-6).
+Code and results of the experiment conducted in the paper:\
+[LECTOR: Summarizing E-book Reading Content for Personalized Student Support](https://doi.org/10.1007/s40593-025-00478-6).
 
 ```bibtex
 @article{Lopez2025lector,
